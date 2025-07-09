@@ -1,0 +1,7 @@
+A murder has occurred in the old mansion on Maple Street. The victim, Mr. Blackwood, was found dead in his study.
+The police have ruled out suicide. You, the detective, must figure out who the murderer is.
+
+Suspects:
+1. Alice - The maid who worked for Mr. Blackwood for 10 years.
+2. Bob - His business partner, known for financial troubles.
+3. Clara - Mr. Blackwood's niece, who recently argued with him.
