@@ -154,14 +154,4 @@ You can create new mystery cases by editing the text files in the `data/` folder
    Their testimony...
    ```
 
-The game will automatically parse and load your custom mysteries!
-
-## Future Enhancements
-
-- Add more mysteries with different scenarios
-- Include inventory system for physical evidence
-- Add mini-games for evidence analysis
-- Create multiple difficulty levels
-- Add save/load game state functionality
-- Support for multiple case files
 
