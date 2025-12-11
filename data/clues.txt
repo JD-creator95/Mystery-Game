@@ -1,0 +1,59 @@
+CLUES DISCOVERED IN THE INVESTIGATION
+======================================
+
+CLUE #1: TORN RED FABRIC
+-------------------------
+Location: Back entrance door handle
+Description: A small piece of red wool fabric, approximately 2 inches long, caught on the rough edge of the door handle. The fabric appears to be from a scarf or sweater. Lab analysis confirms it's from an expensive cashmere blend.
+
+Significance: The thief may have been wearing red clothing and caught it while entering or exiting through the back door.
+
+
+CLUE #2: MUDDY FOOTPRINTS
+--------------------------
+Location: Trail from back door to East Wing
+Description: Size 10 men's shoe prints in a distinctive pattern. The mud contains traces of clay soil common to residential gardens in the upscale Riverside district. Prints show the person walked deliberately, not running.
+
+Significance: The thief entered through the back door and wore size 10 shoes. The specific soil type narrows down where they may have come from.
+
+
+CLUE #3: SECURITY FOOTAGE GAP
+------------------------------
+Location: Security office digital records
+Description: Security cameras were manually disabled from 2:00 AM to 3:30 AM. The system logs show they were turned off using a master override code that only three people possess: Dr. Hayes (curator), Marcus Cole (head security guard), and Sarah Mitchell (assistant curator).
+
+Significance: The thief either had access to the override code or colluded with someone who did.
+
+
+CLUE #4: STOLEN KEY CARD
+-------------------------
+Location: Found in bushes outside museum, discovered during grounds search
+Description: Sarah Mitchell's employee access card, which grants access to all museum doors and can disable certain alarms. Sarah reported it missing two days before the theft but claimed she thought she'd just misplaced it at home.
+
+Significance: The thief used this card to enter through the back door without triggering the entrance alarm. Questions remain about whether Sarah was careless or complicit.
+
+
+CLUE #5: FINANCIAL RECORDS
+---------------------------
+Location: Discovered during background checks
+Description: Bank records show that one of the suspects recently received a wire transfer of $50,000 from an offshore account belonging to Victor Blackwood, a notorious private collector known for acquiring items through questionable means.
+
+Significance: This suggests a financial connection between a museum insider and a collector who would want the sapphire. The transfer occurred one week before the theft.
+
+
+CLUE #6: ALIBI PHOTOGRAPHS
+---------------------------
+Location: Social media and event photography
+Description: Photographs from a charity gala on the night of the theft show Dr. Eleanor Hayes wearing a distinctive red cashmere scarf. The event was from 7:00 PM to 11:00 PM, but her whereabouts between midnight and 6:00 AM are unaccounted for.
+
+Significance: The red fabric matches Dr. Hayes' scarf. However, she could have lost it earlier, or someone could have borrowed/stolen it to frame her.
+
+
+IMPORTANT NOTES FOR INVESTIGATORS:
+-----------------------------------
+
+• Not all clues directly implicate the guilty party - some may be red herrings
+• Consider means (access), motive (reason), and opportunity (time/ability)
+• Cross-reference clues with suspect statements to find contradictions
+• The real culprit will have the strongest combination of all three elements
+• Some suspects may be lying to protect themselves even if they're innocent
